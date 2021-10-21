@@ -1,0 +1,32 @@
+{
+  "name": "projecteuler",
+  "version": "1.0.0",
+  "description": "Solutions to various Project Euler problems. All solutions will be given in Typescript/Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erichand18/ProjectEuler.git"
+  },
+  "keywords": [
+    "Golang",
+    "Project",
+    "Euler",
+    "Javascript",
+    "Data",
+    "Structures",
+    "Algorithms",
+    "Typescript"
+  ],
+  "author": "Eric Handley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erichand18/ProjectEuler/issues"
+  },
+  "homepage": "https://github.com/erichand18/ProjectEuler#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
