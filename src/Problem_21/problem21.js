@@ -32,5 +32,4 @@ function sumAmicableNumbers() {
     }
     return sum;
 }
-
 console.log(sumAmicableNumbers());
